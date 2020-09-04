@@ -8606,7 +8606,12 @@ body.is-preload .items.onload-fade-in > * > .inner {
 	box-shadow: none !important;
 }
 
-section #theStart {
+/* section #theStart {
 	background-image: url(dist/images/header-background.jpg) !important;
+	background-size: cover;
+} */
+
+body .is-preload div #wrapper section #theStart {
+	background-image: url(images/header-background.jpg) !important;
 	background-size: cover;
 }
