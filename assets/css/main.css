@@ -8607,6 +8607,6 @@ body.is-preload .items.onload-fade-in > * > .inner {
 }
 
 section #theStart {
-	background-image: url(https://images.unsplash.com/photo-1484665739383-a1069a82d4be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80) !important;
+	background-image: url(dist/images/header-background.jpg) !important;
 	background-size: cover;
 }
