@@ -2736,6 +2736,7 @@ a.icon.style2:active:before {
 .image img {
 	display: block;
 	border-radius: 4px;
+	border: 1px solid rgb(214, 214, 214);
 }
 
 .image.left,
@@ -8605,11 +8606,6 @@ body.is-preload .items.onload-fade-in > * > .inner {
 #wrapper.divided > .invert:first-child {
 	box-shadow: none !important;
 }
-
-/* section #theStart {
-	background-image: url(dist/images/header-background.jpg) !important;
-	background-size: cover;
-} */
 
 body .is-preload div #wrapper section #theStart {
 	background-image: url(images/header-background.jpg) !important;
